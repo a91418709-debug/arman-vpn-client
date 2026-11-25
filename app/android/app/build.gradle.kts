@@ -15,7 +15,7 @@ val releaseKey = Properties().apply {
 }
 
 android {
-    namespace = "com.arman.firefoxvpn"
+    namespace = "com.example.myffvpn"
     compileSdk = flutter.compileSdkVersion
     // The NDK installed here (Flutter's default, 28.x, is not).
     ndkVersion = "30.0.16248370"
