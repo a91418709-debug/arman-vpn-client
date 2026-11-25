@@ -1,4 +1,4 @@
-package com.arman.firefoxvpn
+package com.example.myffvpn
 
 import android.Manifest
 import android.app.ActivityManager
